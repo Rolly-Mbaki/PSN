@@ -50,15 +50,6 @@ const styles = StyleSheet.create({
         color: "#999",
         marginBottom: 5,
     },
-    gameRelease: {
-        fontSize: 12,
-        color: "gray",
-        marginBottom: 5,
-    },
-    developer: {
-        fontSize: 12,
-        color: "gray",
-    },
     toTopButton: {
         position: "absolute",
         bottom: 20,
